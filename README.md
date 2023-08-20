@@ -1,7 +1,7 @@
 # go-module-template
 
-![Build & Test](https://github.com/ivanlemeshev/proto-converter/actions/workflows/golang.yml/badge.svg)
-![Linter](https://github.com/ivanlemeshev/proto-converter/actions/workflows/golangci-lint.yml/badge.svg)
+![Build & Test](https://github.com/ivanlemeshev/go-module-template/actions/workflows/golang.yml/badge.svg)
+![Linter](https://github.com/ivanlemeshev/go-module-template/workflows/golangci-lint.yml/badge.svg)
 
 This is a template for a Go module. It contains a basic structure and CI/CD configuration.
 
